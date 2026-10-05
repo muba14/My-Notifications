@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bildirimim</string>
+    <color name="brown">#2E1B12</color>
+    <color name="white">#FFFFFF</color>
+    <style name="AppTheme" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/brown</item>
+        <item name="android:statusBarColor">@color/brown</item>
+        <item name="android:navigationBarColor">@color/brown</item>
+        <item name="android:colorAccent">@color/brown</item>
+    </style>
+</resources>
